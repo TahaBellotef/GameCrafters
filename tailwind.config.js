@@ -4,6 +4,7 @@ module.exports = {
     "./public/index.html", 
     "./public/profile-daily.html",
     "./public/*.html",
+    "./*.html"
   ],
   theme: {
     extend: {
