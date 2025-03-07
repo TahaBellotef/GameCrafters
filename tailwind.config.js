@@ -3,7 +3,7 @@ module.exports = {
   content: [
     "./public/index.html", 
     "./public/profile-daily.html",
-    "./public/profile.html",
+    "./public/*.html",
   ],
   theme: {
     extend: {
